@@ -1,16 +1,9 @@
 import React from "react"
 import "./style.css"
-import API from "../utils/API"
 
 function Book(props){
-    const bookInfo={title: props.title, subtitle: props.subtitle, image:props.image, synopsis: props.synopsis, author:props.author, url:props.url}
+    
 
-    function saveBook(){
-        console.log(bookInfo);
-        API.saveBook(bookInfo)
-        .then(console.log(bookInfo))
-        .catch(err => console.log(err))
-    }
     return(
         <div className="bookCard">
             <h3>{props.title}</h3>
@@ -22,7 +15,7 @@ function Book(props){
             </div>
             <div className="row">
             <a type="button" className="btn btn-primary" href={props.url}>View Book</a>
-            <button type="button" className="btn btn-success" onClick={saveBook}>Save Book</button>
+            <button type="button" className="btn btn-warning" onClick={() => props.deleteBook(props._id)}>Delete Book</button>
             </div>
             
 

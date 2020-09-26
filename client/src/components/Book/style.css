@@ -1,0 +1,19 @@
+.bookThumbnail{
+    float:left;
+
+}
+
+img{
+    float:left;
+    margin: 10px;
+}
+
+.bookCard{
+    border: 1px solid black;
+    background-color: #EEEEEE;
+    padding: 20px;
+    margin: 10px;
+}
+.btn{
+    margin:10px;
+}

@@ -1,0 +1,849 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1720,
+    "items": [
+    {
+    "kind": "books#volume",
+    "id": "iO5pApw2JycC",
+    "etag": "+MxNUJ/Ka6c",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/iO5pApw2JycC",
+    "volumeInfo": {
+    "title": "The Ivory Tower and Harry Potter",
+    "subtitle": "Perspectives on a Literary Phenomenon",
+    "authors": [
+    "Lana A. Whited"
+    ],
+    "publisher": "University of Missouri Press",
+    "publishedDate": "2004",
+    "description": "Now available in paper, The Ivory Tower and Harry Potter is the first book-length analysis of J. K. Rowling's work from a broad range of perspectives within literature, folklore, psychology, sociology, and popular culture. A significant portion of the book explores the Harry Potter series' literary ancestors, including magic and fantasy works by Ursula K. LeGuin, Monica Furlong, Jill Murphy, and others, as well as previous works about the British boarding school experience. Other chapters explore the moral and ethical dimensions of Harry's world, including objections to the series raised within some religious circles. In her new epilogue, Lana A. Whited brings this volume up to date by covering Rowling's latest book, Harry Potter and the Order of the Phoenix.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0826215491"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780826215499"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 418,
+    "printType": "BOOK",
+    "categories": [
+    "Literary Criticism"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 13,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.5.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=iO5pApw2JycC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iO5pApw2JycC&pg=PA329&dq=potter&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iO5pApw2JycC&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Ivory_Tower_and_Harry_Potter.html?hl=&id=iO5pApw2JycC"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/The_Ivory_Tower_and_Harry_Potter-sample-epub.acsm?id=iO5pApw2JycC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=iO5pApw2JycC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "<b>Potter</b>. and. the. Technology. of. Magic. Elizabeth Teare The July/August 2001 <br>\nissue of Book lists J. K. Rowling as one of the ten most influential people in <br>\npublishing.1 She shares space on this list with John Grisham and Oprah Winfrey, <br>\nalong&nbsp;..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "Aaug_RnI-xQC",
+    "etag": "xGYvFECF61w",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Aaug_RnI-xQC",
+    "volumeInfo": {
+    "title": "The Irresistible Rise of Harry Potter",
+    "authors": [
+    "Andrew Blake"
+    ],
+    "publisher": "Verso",
+    "publishedDate": "2002",
+    "description": "Blake's examination of the Potter phenomenon raises serious questions about the condition of the publishing industry, filmmaking, and the ways in which the Potter consumer campaign has changed ideas about literature and reading.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "1859846661"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9781859846667"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+    "Literary Criticism"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.1",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=Aaug_RnI-xQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Aaug_RnI-xQC&printsec=frontcover&dq=potter&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Aaug_RnI-xQC&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Irresistible_Rise_of_Harry_Potter.html?hl=&id=Aaug_RnI-xQC"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Aaug_RnI-xQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Blake&#39;s examination of the Potter phenomenon raises serious questions about the condition of the publishing industry, filmmaking, and the ways in which the Potter consumer campaign has changed ideas about literature and reading."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "-__ICQemqaEC",
+    "etag": "q0aLB46kKDU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/-__ICQemqaEC",
+    "volumeInfo": {
+    "title": "Reading Harry Potter",
+    "subtitle": "Critical Essays",
+    "authors": [
+    "David G. Epstein"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2003",
+    "description": "The tropes and themes of J. K. Rowling's massively popular series are interpreted within the context of its audience.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0313320675"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780313320675"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 217,
+    "printType": "BOOK",
+    "categories": [
+    "Literary Criticism"
+    ],
+    "averageRating": 5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=-__ICQemqaEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=-__ICQemqaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-__ICQemqaEC&pg=PA191&dq=potter&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=-__ICQemqaEC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-__ICQemqaEC"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 49.95,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amount": 39.46,
+    "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=-__ICQemqaEC&rdid=book--__ICQemqaEC&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 49950000,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amountInMicros": 39460000,
+    "currencyCode": "USD"
+    },
+    "giftable": true
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Reading_Harry_Potter-sample-epub.acsm?id=-__ICQemqaEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Reading_Harry_Potter-sample-pdf.acsm?id=-__ICQemqaEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-__ICQemqaEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Most importantly, the Harry <b>Potter</b> books resonate with gender stereotypes of the <br>\nworst sort; as Christine Schoefer argues in her review of the first three books in <br>\nthe series, &quot;From the beginning . . . , it is boys and men, wizards and sorcerers,&nbsp;..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "BoX-6R21MgQC",
+    "etag": "XrEPIOLbq44",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BoX-6R21MgQC",
+    "volumeInfo": {
+    "title": "The Psychology of Harry Potter",
+    "subtitle": "An Unauthorized Examination Of The Boy Who Lived",
+    "authors": [
+    "Neil Mulholland"
+    ],
+    "publisher": "BenBella Books, Inc.",
+    "publishedDate": "2009-06-22",
+    "description": "Harry Potter has provided a portal to the wizarding world for millions of readers, but an examination of Harry, his friends and his enemies will take us on yet another journey: through the psyche of the Muggle (and wizard!) mind. The twists and turns of the series, as well as the psychological depth and complexity of J. K. Rowling’s characters, have kept fans enthralled with and puzzling over the many mysteries that permeate Hogwarts and beyond: Do the Harry Potter books encourage disobedience? Why is everyone so fascinated by Professor Lupin? What exactly will Harry and his friends do when they finally pass those N.E.W.T.s? Do even wizards live by the ticking of the clock? Is Harry destined to end up alone? And why did it take Ron and Hermione so long to get together? Now, in The Psychology of Harry Potter, leading psychologists delve into the ultimate Chamber of Secrets, analyzing human mind and motivation by examining the themes and characters that make the Harry Potter books the bestselling fantasy series of all time. Grab a spot on the nearest couch, and settle in for some fresh revelations about our favorite young wizard!",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781935251378"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1935251376"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 326,
+    "printType": "BOOK",
+    "categories": [
+    "Psychology"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=BoX-6R21MgQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=BoX-6R21MgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BoX-6R21MgQC&pg=PA233&dq=potter&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BoX-6R21MgQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BoX-6R21MgQC"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 17.95,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amount": 9.99,
+    "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BoX-6R21MgQC&rdid=book-BoX-6R21MgQC&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 17950000,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amountInMicros": 9990000,
+    "currencyCode": "USD"
+    },
+    "giftable": true
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/The_Psychology_of_Harry_Potter-sample-epub.acsm?id=BoX-6R21MgQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/The_Psychology_of_Harry_Potter-sample-pdf.acsm?id=BoX-6R21MgQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BoX-6R21MgQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Lyubansky examines the question of racial prejudice in the world of Harry <b>Potter</b>. <br>\nRowling portrays a race-blind society at Hogwarts but pursues the issue of race <br>\nthrough proxy: the hatred of the pure- bloods for the “Mudbloods” and the slavery<br>\n&nbsp;..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "2BMDuAEACAAJ",
+    "etag": "cZ/roY1apEc",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/2BMDuAEACAAJ",
+    "volumeInfo": {
+    "title": "Harry Potter and the Cursed Child",
+    "subtitle": "Parts One and Two Playscript",
+    "authors": [
+    "J. K. Rowling",
+    "Jack Thorne",
+    "John Tiffany"
+    ],
+    "publisher": "Arthur A. Levine Books",
+    "publishedDate": "2017-07-25",
+    "description": "The Eighth Story. Nineteen Years Later. Based on an original story by J.K. Rowling, John Tiffany, and Jack Thorne, a play by Jack Thorne. It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children. While Harry grapples with a past that refuses to stay where it belongs, his youngest son, Albus, must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: Sometimes, darkness comes from unexpected places. The playscript for Harry Potter and the Cursed Child was originally released as a \"special rehearsal edition\" alongside the opening of Jack Thorne's play in London's West End in summer 2016. Based on an original story by J.K. Rowling, John Tiffany, and Jack Thorne, the play opened to rapturous reviews from theatergoers and critics alike, while the official playscript became an immediate global bestseller. This revised edition updates the \"special rehearsal edition\" with the conclusive and final dialogue from the play, which has subtly changed since its rehearsals, as well as a conversation piece between director John Tiffany and writer Jack Thorne, who share stories and insights about reading playscripts. This edition also includes useful background information including the Potter family tree and a timeline of events from the wizarding world prior to the beginning of Harry Potter and the Cursed Child.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "1338216678"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9781338216677"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 336,
+    "printType": "BOOK",
+    "categories": [
+    "Juvenile Nonfiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 178,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=2BMDuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=2BMDuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2BMDuAEACAAJ&dq=potter&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2BMDuAEACAAJ&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Cursed_Child.html?hl=&id=2BMDuAEACAAJ"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=2BMDuAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Harry Potter, now an overworked employee of the Ministry of Magic and father of three, watches as his youngest son struggles with the family legacy. But together they must face the fact that sometimes darkness comes from unexpected places."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "DKcWE3WXoj8C",
+    "etag": "DmJGv1V3q0s",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/DKcWE3WXoj8C",
+    "volumeInfo": {
+    "title": "Harry Potter and International Relations",
+    "authors": [
+    "Daniel H. Nexon",
+    "Iver B. Neumann"
+    ],
+    "publisher": "Rowman & Littlefield",
+    "publishedDate": "2006",
+    "description": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry's world contain aspects of our own. It also includes chapters on the political economy of the franchise, and on the problems of studying popular culture.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0742539598"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780742539594"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+    "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=DKcWE3WXoj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DKcWE3WXoj8C&printsec=frontcover&dq=potter&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DKcWE3WXoj8C&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_International_Relations.html?hl=&id=DKcWE3WXoj8C"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Harry_Potter_and_International_Relations-sample-pdf.acsm?id=DKcWE3WXoj8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=DKcWE3WXoj8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Drawing on a range of historical and sociological sources, this work shows how aspects of Harry&#39;s world contain aspects of our own."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "abYKXvCwEToC",
+    "etag": "sXJB4JY8AHM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/abYKXvCwEToC",
+    "volumeInfo": {
+    "title": "Harry Potter",
+    "subtitle": "The Story of a Global Business Phenomenon",
+    "authors": [
+    "S. Gunelius"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2008-06-03",
+    "description": "The Harry Potter books are the bestselling books of all time. In this fascinating study, Susan Gunelius analyzes every aspect of the brand phenomenon that is Harry Potter. Delving into price wars, box office revenue, and brand values, amongst other things, this is the story of the most incredible brand success there has ever been.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780230594104"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0230594107"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 194,
+    "printType": "BOOK",
+    "categories": [
+    "Business & Economics"
+    ],
+    "averageRating": 3,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.3.5.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=abYKXvCwEToC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=abYKXvCwEToC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=abYKXvCwEToC&pg=PR11&dq=potter&hl=&cd=7&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 69.99,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amount": 55.99,
+    "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=abYKXvCwEToC&rdid=book-abYKXvCwEToC&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 69990000,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amountInMicros": 55990000,
+    "currencyCode": "USD"
+    },
+    "giftable": true
+    },
+    {
+    "finskyOfferType": 3,
+    "listPrice": {
+    "amountInMicros": 24500000,
+    "currencyCode": "USD"
+    },
+    "retailPrice": {
+    "amountInMicros": 21320000,
+    "currencyCode": "USD"
+    },
+    "rentalDuration": {
+    "unit": "DAY",
+    "count": 90
+    }
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Harry_Potter-sample-epub.acsm?id=abYKXvCwEToC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/Harry_Potter-sample-pdf.acsm?id=abYKXvCwEToC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=abYKXvCwEToC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Dissecting the success of J.K. Rowling and the Harry <b>Potter</b> series from a <br>\nbusiness perspective is an interesting challenge. The business and societal <br>\neffects of a trend that becomes a phenomenon are far-reaching and often deeply <br>\nemotional."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "JXi7AAAAIAAJ",
+    "etag": "KXf5Z/e7aoo",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JXi7AAAAIAAJ",
+    "volumeInfo": {
+    "title": "Dennis Potter",
+    "subtitle": "A Life on Screen",
+    "authors": [
+    "John R. Cook"
+    ],
+    "publisher": "Manchester University Press",
+    "publishedDate": "1998",
+    "description": "This is a study of Potter's whole life's work, from early plays in the 1960s through to his final works in 1994. It includes interviews with top film practitioners and the writer himself, and should appeal to both the academic and general reader.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0719054230"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780719054235"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 389,
+    "printType": "BOOK",
+    "categories": [
+    "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=JXi7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=JXi7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JXi7AAAAIAAJ&pg=PA368&dq=potter&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JXi7AAAAIAAJ&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Dennis_Potter.html?hl=&id=JXi7AAAAIAAJ"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JXi7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Secret Friends , dir . Dennis <b>Potter</b> . 1993 UK / Aus . Mesmer , dir . Roger <br>\nSpottiswoode . ( Note : This film has never been released due to legal problems <br>\nwith the distributor relating to directorial deviations from the agreed shooting <br>\nscript . )&nbsp;..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "P8VID3P916gC",
+    "etag": "4/mDBNHV6jI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/P8VID3P916gC",
+    "volumeInfo": {
+    "title": "Beatrix Potter",
+    "subtitle": "A Life in Nature",
+    "authors": [
+    "Linda Lear"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2008-03-04",
+    "description": "Details the life of the children's author and illustrator who created such memorable characters as Peter Rabbit, Jemima Puddle-Duck, and Tom Kitten.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "0312377967"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9780312377960"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+    "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.1.1.0.preview.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=P8VID3P916gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=P8VID3P916gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=P8VID3P916gC&pg=PA49&dq=potter&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=P8VID3P916gC&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Beatrix_Potter.html?hl=&id=P8VID3P916gC"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=P8VID3P916gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Unlike most young women who have kept diaries , however , Beatrix <b>Potter</b> wrote <br>\nhers in a cipher of her own devising : one that consisted pretty much of a letter - <br>\nfor - letter substitution , written in an ever smaller and smaller hand , sometimes&nbsp;..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "c_KYSDoCYQ4C",
+    "etag": "Imxbypq3Qag",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/c_KYSDoCYQ4C",
+    "volumeInfo": {
+    "title": "The Magic of Harry Potter",
+    "authors": [
+    "Daniel Mitchell"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "2007-12-01",
+    "description": "The Harry Potter books by J. K. Rowling have been phenomenal bestsellers winning fans world wide. These essays look at the magic, literary devices and moral themes in the Harry Potter series. In addition, the controversy between Christians over the moral themes is discussed.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9780615172828"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "0615172822"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+    "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.3",
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=c_KYSDoCYQ4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=c_KYSDoCYQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=c_KYSDoCYQ4C&pg=PA7&dq=potter&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=c_KYSDoCYQ4C&dq=potter&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Magic_of_Harry_Potter.html?hl=&id=c_KYSDoCYQ4C"
+    },
+    "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.com/books/download/The_Magic_of_Harry_Potter-sample-epub.acsm?id=c_KYSDoCYQ4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=c_KYSDoCYQ4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "<b>Potter</b>. Mania. Every so often a device, a book, or an idea comes along that so <br>\ncaptures people&#39;s imagination that it becomes a fad, or even a mania. It&#39;s an <br>\ninteresting phenomenon that is sometimes difficult to explain. It isn&#39;t necessary <br>\nthat the&nbsp;..."
+    }
+    }
+    ]
+    }
